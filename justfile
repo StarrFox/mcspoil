@@ -2,10 +2,13 @@
 default:
     just --list
 
-export:
+export: refresh
     mkdir dist || true
     packwiz modrinth export --cache cache
     mv *.mrpack dist/
+
+refresh:
+    packwiz refresh
 
 update: update-lock update-mods
 
