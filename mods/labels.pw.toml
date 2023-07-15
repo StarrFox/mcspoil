@@ -1,0 +1,13 @@
+name = "Storage Labels"
+filename = "labels-1.18.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x6r7yhfi/versions/iy7ZcSi0/labels-1.18.2-1.0.jar"
+hash-format = "sha1"
+hash = "107da6862967149e98b5cd0bb35c33d892fd30b1"
+
+[update]
+[update.modrinth]
+mod-id = "x6r7yhfi"
+version = "iy7ZcSi0"

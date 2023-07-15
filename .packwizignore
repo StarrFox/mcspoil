@@ -1,0 +1,6 @@
+.envrc
+flake.*
+README.md
+.direnv
+justfile
+dist

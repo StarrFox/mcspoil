@@ -1,0 +1,6 @@
+# nix
+result
+.direnv
+
+# exports
+*.mrpack
