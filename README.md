@@ -4,7 +4,6 @@ modpack for wizspoil
 
 ## TODO
 
-- use modrinth supplementaries (requires moonlight lib version that isnt on modrinth); this actually blocks us from using it as it doesn't have a license
 - find replacement for the fps distance mod (<https://github.com/someaddons/betterfpsdistances/issues/12>)
 - make issue for Dustrial Decor to add a license (<https://github.com/BlueDuckYT/DustrialDecor>)
 

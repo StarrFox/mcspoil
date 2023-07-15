@@ -3,11 +3,11 @@ filename = "supplementaries-1.18.2-1.5.18.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/XrooimC8/supplementaries-1.18.2-1.5.18.jar"
 hash-format = "sha1"
-hash = "77c92894d7482b71bd6489ba43355b6558a024d6"
-mode = "metadata:curseforge"
+hash = "0010fd63defe2972c5f0abb0ccb421af0f16a3a1"
 
 [update]
-[update.curseforge]
-file-id = 4548315
-project-id = 412082
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "XrooimC8"
