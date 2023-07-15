@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "06f7c48a87a485cd01a5ff4f7a2a8fdd25eed78c35ab7ecc386fa18bf2316909"
+hash = "c8bada37f39aaaf3eda2480ddb0052a70d69ca9a74017ec94822745345b750c6"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "10a93cdfe186efd6494db7189a9d8a3663c544614c3010eabedbb393bf367723"
+hash = "92edffc779cc46014d6a8b7d5a4d76c834677549d48924746eef0a8962c82e04"
 metafile = true
 
 [[files]]
@@ -413,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "23c2a1f9959cb162517d08182c5a4e654b0185d5c1d5a586ed975847304ac556"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "bbcac108eb3d98535842213f234673bb2725e8abed191c8dc5c3893a3675999a"
 metafile = true
 
 [[files]]
