@@ -35,15 +35,16 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1689415188,
-        "narHash": "sha256-BIi4vjhIPyyz3HSTHc97OzCpoCbp801A0wmoyALZ7DY=",
+        "lastModified": 1689413807,
+        "narHash": "sha256-exuzOvOhGAEKWQKwDuZAL4N8a1I837hH5eocaTcIbLc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "fcf4c96a0a34b54f21eef9bea657ffe829bc6fc8",
+        "rev": "46ed466081b9cad1125b11f11a2af5cc40b942c7",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
+        "ref": "nixpkgs-unstable",
         "repo": "nixpkgs",
         "type": "github"
       }
@@ -66,11 +67,32 @@
         "type": "github"
       }
     },
+    "packwiz": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1688683881,
+        "narHash": "sha256-MCY4ZE2OehbinDMTJ24wQwjk6a3NJKoYddVOkBOe85c=",
+        "owner": "packwiz",
+        "repo": "packwiz",
+        "rev": "10535d5e758e62b960fc6b607236faf9cd3b1a36",
+        "type": "github"
+      },
+      "original": {
+        "owner": "packwiz",
+        "repo": "packwiz",
+        "type": "github"
+      }
+    },
     "root": {
       "inputs": {
         "flake-parts": "flake-parts",
         "nix-systems": "nix-systems",
-        "nixpkgs": "nixpkgs"
+        "nixpkgs": "nixpkgs",
+        "packwiz": "packwiz"
       }
     }
   },
