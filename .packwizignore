@@ -4,3 +4,4 @@ README.md
 .direnv
 justfile
 dist
+LICENSE
