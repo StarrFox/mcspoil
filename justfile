@@ -4,7 +4,7 @@ default:
 
 export:
     mkdir dist || true
-    packwiz modrinth export
+    packwiz modrinth export --cache cache
     mv *.mrpack dist/
 
 update: update-lock update-mods
