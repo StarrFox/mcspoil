@@ -13,7 +13,7 @@ refresh:
     packwiz refresh
 
 # update everything
-update: update-lock update-mods
+update: update-lock update-mods update-loader
 
 # update flake lock
 update-lock:
@@ -23,6 +23,10 @@ update-lock:
 # update all mods
 update-mods:
     packwiz update --all
+
+# update loader to latest version
+update-loader:
+    packwiz migrate loader latest
 
 # format
 format:
