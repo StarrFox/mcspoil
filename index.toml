@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-piglins.pw.toml"
-hash = "96013b9298fc4cd31d11e146e707a5dff795d6d883ca0109668e2957817eadab"
+hash = "d5cac0f17db3b8d29d1689fa262f1942587f2073e645dc8dea257a25d79f80a7"
 metafile = true
 
 [[files]]
