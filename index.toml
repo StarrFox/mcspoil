@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/functional-storage.pw.toml"
-hash = "578f9744ec68be4341cd4fd9d7b037129c64e0ac1e36fe09b8a5599f23823a6f"
+hash = "c4babd9244a155a23d10b0f73a1823908897eb0144c830ccf440064817216c55"
 metafile = true
 
 [[files]]
@@ -321,8 +321,8 @@ hash = "30904cd18bdc87d347874e70002945bd9e58456339e5f7d8bf8bd67d5a4e3fde"
 metafile = true
 
 [[files]]
-file = "mods/lightspeedmod.pw.toml"
-hash = "179de6180653ff93abb091b60569b0860c3b74d7197f7af8cc4f4547aa3dc128"
+file = "mods/lightspeed.pw.toml"
+hash = "12925ade9a4f43f6fdfa4bf477f17fbb386c9d4a069c7683b702ab40853f7343"
 metafile = true
 
 [[files]]
