@@ -1,0 +1,13 @@
+name = "Spades!"
+filename = "spades_1.19.2-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63206681963e439478c23ddc751e1d965053b796"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4081233
+project-id = 563930

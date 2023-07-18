@@ -1,0 +1,13 @@
+name = "Gateways to Eternity"
+filename = "GatewaysToEternity-1.19.2-3.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "116019d1ca12486c9471316a6851bab901755564"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4546965
+project-id = 417802

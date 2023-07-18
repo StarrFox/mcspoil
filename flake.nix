@@ -1,5 +1,5 @@
 {
-  description = "wizspoil modpack";
+  description = "a modpack";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
@@ -28,7 +28,7 @@
         ...
       }: {
         devShells.default = pkgs.mkShell {
-          name = "mcspoil";
+          name = "packwiz-env";
           packages = with pkgs; [
             just
             alejandra
