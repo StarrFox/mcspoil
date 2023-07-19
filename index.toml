@@ -190,6 +190,11 @@ hash = "6b4b19b314ca50e8672b713d4b200418b11928c0952ce5ffee7455bf03842465"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "60ba7a99958443bd54f5e676cb2d3845738de613bf197ab5ec15e5b01f2621e9"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "a0787cf8f59bb3ecde0c73f683039fb3dd9db24d8f64fffc74851427b716631f"
 metafile = true
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eb9dd27127057258c867a37235798aa000e72ee5aa636969880c5c04b5c4270d"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "338e95818aa7bdafffa43ff65a5779e4852fa185325ebfe28f86f5a354c3b22d"
 metafile = true
 
 [[files]]
