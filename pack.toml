@@ -1,12 +1,12 @@
 name = "McSpoil"
 author = "StarrFox"
-version = "0.2.0"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "56b298c06d7d28a97dc6ef416d555dcee2e798a4e29152d27bcffa1ca7fe2d20"
+hash = "39f601845ee1d995f49e3788a5395943cc6705ff5580b2434618998f72d52a04"
 
 [versions]
 forge = "43.2.21"
