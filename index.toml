@@ -150,6 +150,11 @@ hash = "ee78402183e74f321b8d9f16f4b24a3dea8b09e54c1e57726490e67dfbb59a1b"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "1a5292e6bafde18cc28692f01e6d0828e93c7f345d3bdd0bfb1a887f4d79f7d2"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
