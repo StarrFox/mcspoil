@@ -65,6 +65,11 @@ hash = "7b6410313b56bb649285417562e45892da293d38b80e185c2ffc52b4f97f680e"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+hash = "8ad527bbe4a7a481f6c143e343c76e56d3c86defe62889fe6ee5b1c8f6571cdb"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "636413dce28ec59fbeac7c63d0fcd9d57f8643a69f428b3e910df0e5a3ab6d1b"
 metafile = true
@@ -403,3 +408,11 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "943714aedf7779f0720157a28de846929fd339f01a493244ce6a36a126febaa4"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "18f5e11aa9d90367dcdb57947dfe47237afdcc2750e7c2942b8d5f4bf8f8337d"
+
+[[files]]
+file = "servers.dat"
+hash = "07468d040d7dcd4578f5990ba1dabd0a14717ace1ae26a5fbaba821c72ba91b0"
