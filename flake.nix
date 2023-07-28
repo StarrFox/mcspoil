@@ -28,7 +28,7 @@
         ...
       }: {
         devShells.default = pkgs.mkShell {
-          name = "packwiz-env";
+          name = "packwiz";
           packages = with pkgs; [
             just
             alejandra
