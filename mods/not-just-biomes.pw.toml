@@ -1,0 +1,13 @@
+name = "Not Just Biomes"
+filename = "not-just-biomes-mc1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EIT1cuHa/versions/FCU1K3tC/not-just-biomes-mc1.19.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "d136e1c5bdc9ec0dac147994cbde4451bdafb173"
+
+[update]
+[update.modrinth]
+mod-id = "EIT1cuHa"
+version = "FCU1K3tC"
