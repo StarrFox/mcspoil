@@ -1,13 +1,13 @@
 name = "McSpoil"
 author = "StarrFox"
-version = "0.5.0"
+version = "0.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "37c635f488f91334e121fa57996d68dc7a0a3a3060b6ffb7e3dfbc372873818e"
+hash = "62c5429d649bf2ec2ed58ae121f2f15d6e1a540397cf8247bb5197e9111cf394"
 
 [versions]
-forge = "43.2.21"
+fabric = "0.14.21"
 minecraft = "1.19.2"
